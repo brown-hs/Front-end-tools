@@ -5,3 +5,5 @@
 马克鳗官网：  http://www.getmarkman.com/#/download-modal (设计稿标注工具，极简)
 
 git在线操作学习：https://learngitbranching.js.org/   ( git指令+ gif动画教程）
+
+git-flow 备忘清单: http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html
