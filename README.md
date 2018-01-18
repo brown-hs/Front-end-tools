@@ -7,3 +7,5 @@
 git在线操作学习：https://learngitbranching.js.org/   ( git指令+ gif动画教程）
 
 git-flow 备忘清单: http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html
+
+switchhosts 切换host工具： http://www.downza.cn/soft/197444.html
