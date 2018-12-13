@@ -11,3 +11,5 @@ git-flow 备忘清单: http://danielkummer.github.io/git-flow-cheatsheet/index.z
 switchhosts 切换host工具： http://www.downza.cn/soft/197444.html
 
 color cube 识色工具：  http://www.fancynode.com.cn/colorcube/home
+
+各版本Office办公软件下载：http://t.cn/R2enkTR
